@@ -1,7 +1,9 @@
-gradio==5.4.0
+skops
+streamlit
 pandas
 numpy
 scikit-learn
 joblib
 huggingface_hub
+gradio
 black
